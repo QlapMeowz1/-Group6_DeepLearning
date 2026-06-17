@@ -1,1 +1,19 @@
+Tên đề tài:
+Traffic Sign Classification using Deep Learning
+Group 6
+Thành viên:
+1. Đinh Quang Lập - 23010416
+2. Nguyễn Thế Cường  - 23010176
+3. Nguyễn Hoàng Thái Bảo - 23010120
+
+Mô tả ngắn:
+Đề tài xây dựng mô hình deep learning để phân loại biển báo giao thông Việt Nam từ ảnh. Dữ liệu được xử lý bằng cách cắt vùng chứa biển báo theo nhãn, resize về kích thước 64x64, chuẩn hóa ảnh và huấn luyện các mô hình CNN/transfer learning để so sánh kết quả.
+
+Link repository:
+https://github.com/QlapMeowz1/-Group6_DeepLearning
+
+Link dataset:
+https://www.kaggle.com/datasets/maitam/vietnamese-traffic-signs
+
+demo: Demo hiện được thực hiện trực tiếp trong notebook Google Colab
 
